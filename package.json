@@ -58,7 +58,7 @@
     "vuex-persistedstate": "^3.2.1",
     "vuex-persistedstate-migrate": "^1.0.0",
     "vuex-shared-mutations": "^1.0.2",
-    "workbox-window": "^6.1.5",
+    "workbox-window": "^6.5.4",
     "youtube-player": "^5.5.2"
   },
   "devDependencies": {
